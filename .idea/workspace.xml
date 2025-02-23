@@ -19,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -172,7 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1740211672405</updated>
       <workItem from="1740211673540" duration="18742000" />
-      <workItem from="1740301373125" duration="4094000" />
+      <workItem from="1740301373125" duration="10278000" />
     </task>
     <task id="LOCAL-00001" summary="Initail commit (Create java EE project)">
       <option name="closed" value="true" />
@@ -222,7 +222,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740303040540</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Done customerList part">
+      <option name="closed" value="true" />
+      <created>1740307581089</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740307581089</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Done customerList part">
+      <option name="closed" value="true" />
+      <created>1740307594921</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740307594921</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +251,8 @@
     <MESSAGE value="Create Customer entity" />
     <MESSAGE value="Created CustomerSaveServlet" />
     <MESSAGE value="Done customer Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done customer Update" />
+    <MESSAGE value="Done customerList part" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done customerList part" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
