@@ -10,11 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c8ca6ff-2a84-4512-a167-aaa9381f877e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8c8ca6ff-2a84-4512-a167-aaa9381f877e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -176,7 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1740211672405</updated>
       <workItem from="1740211673540" duration="18742000" />
-      <workItem from="1740301373125" duration="1210000" />
+      <workItem from="1740301373125" duration="4094000" />
     </task>
     <task id="LOCAL-00001" summary="Initail commit (Create java EE project)">
       <option name="closed" value="true" />
@@ -218,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740226464979</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Done customer Update">
+      <option name="closed" value="true" />
+      <created>1740303040540</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740303040540</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +234,8 @@
     <MESSAGE value=" updating readme file (adding more information )" />
     <MESSAGE value="Create Customer entity" />
     <MESSAGE value="Created CustomerSaveServlet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created CustomerSaveServlet" />
+    <MESSAGE value="Done customer Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done customer Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
